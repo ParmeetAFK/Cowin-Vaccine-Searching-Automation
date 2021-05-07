@@ -7,9 +7,9 @@ import random
 
 #-------------------------------------- USER INPUTS -------------------------------------
 
-MOBILE_NUMBER = 9764678800
+MOBILE_NUMBER = XXXXXXXXXX
 PIN_CODES = [411044 , 411035 , 411027 ]				# Seperate PIN CODES with comma
-WEBDRIVER_PATH = r"C:\chromedriver.exe"
+WEBDRIVER_PATH = r""
 OTP_SLEEP_TIME =  25					# Optional
 MEMBERS_SLEEP_TIME =  10				# Optional
 
