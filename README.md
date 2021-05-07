@@ -6,6 +6,8 @@ As you must know registering for COVID vaccine on COWIN website is real headache
 
 ▶ __Make User Input Changes and Run app.py from console__
 
+# 🇮🇳  STAY SAFE , SCHEDULE YOUR VACCINE , STAY STRONG 🇮🇳
+
 # Disclaimer 🚦
 
 1. I am not responsible if somehow your account is blocked.
