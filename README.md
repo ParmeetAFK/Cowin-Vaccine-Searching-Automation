@@ -4,6 +4,8 @@
 
 As you must know registering for COVID vaccine on COWIN website is real headache for Age group 18 - 44. Available slots stay open for barely a minute you have to be fast to register for vaccine.
 
+▶ __Make User Input Changes and Run app.py from console__
+
 # Disclaimer 🚦
 
 1. I am not responsible if somehow your account is blocked.
@@ -11,6 +13,9 @@ As you must know registering for COVID vaccine on COWIN website is real headache
 3. Please check Date ,  Vaccine , Pincode before confirming your vaccination 
 4. Again I am not responsible for anything you face because of this script
 
+# 📲 DEMO GIF 📲
+
+![GitHub Logo](/demo.gif)
 
 # Inputs for Bot 🤖
 
